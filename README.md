@@ -1,4 +1,5 @@
-# Retail Store Simulation and Optimization with SimPy
+# Customer Footfall Analysis and Simulation using SimPy Generator in Python
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5aabf0de-4da8-4e44-baf6-4899df5074e4" width="500">
 </p>
