@@ -1,4 +1,7 @@
 # Retail Store Simulation and Optimization with SimPy
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5aabf0de-4da8-4e44-baf6-4899df5074e4" width="500">
+</p>
 
 ## Project Overview
 This project simulates and optimizes customer behavior, cashier processes, queue management, and inventory management in a retail store using **SimPy**. The simulation models realistic store operations, including dynamic customer shopping patterns, queue selection, cashier workflows with breaks, and automated inventory restocking. The collected data provides insights for improving customer flow, resource allocation, and inventory management.
